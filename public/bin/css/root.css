@@ -1,0 +1,15 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg: #2d3142ff;
+    --other: rgb(214, 216, 235);
+    --medium-champagne: #dfd5a5ff;
+    --earth-yellow: #dbad6aff;
+    --bg2: #4f5d75ff;
+}
