@@ -1,0 +1,2 @@
+# QuikQuiz
+### MIT License Copyright (c) 2021 Bleart Emini

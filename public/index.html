@@ -12,6 +12,14 @@
     <link rel="shortcut icon" href="#">
 </head>
 <body>
-    
+    <form method="POST" action="/create-quiz">
+        <input type="text" name="quizName" />
+        <div class="questionList">
+            <!--Names are created in createQuestion function and sent to server in submit-->
+            <input class="question" type="text" name="">
+        </div>
+        <button class="optionBTN">Create Question</button>
+        <input type="submit" />
+    </form>
 </body>
 </html>
